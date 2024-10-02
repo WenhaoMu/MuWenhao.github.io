@@ -22,10 +22,10 @@ repository               : "WenhaoMu/WenhaoMu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wenhao Mu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD student at Umich"
+  location         : "Ann Arbor, MI, US"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 

@@ -12,7 +12,7 @@ title                    : "Wenhao Mu"
 title_separator          : "-"
 name                     : &name "Wenhao Mu"
 description              : &description "PhD student at Umich"
-url                      : https://WenhaoMu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wenhaomu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WenhaoMu/WenhaoMu.github.io"
 
